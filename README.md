@@ -4,6 +4,12 @@ Simplified setup around the Traktor Kontrol S8.
 
 See also <https://github.com/dotherightthing/m4l-helpers>
 
+---
+
+> **This project is no longer maintained - please see [version 5](https://github.com/dotherightthing/traktor-live-v5/).**
+
+---
+
 ## Traktor Pro
 
 ### Settings
